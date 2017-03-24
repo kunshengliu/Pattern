@@ -1,4 +1,4 @@
-package com.bjsxt.factory;
+package com.bjsxt.factory.method;
 
 public class AudiFactory implements CarFactory {
 
