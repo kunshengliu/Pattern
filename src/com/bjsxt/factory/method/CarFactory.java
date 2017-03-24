@@ -1,5 +1,7 @@
 package com.bjsxt.factory.method;
 
+import com.bjsxt.factory.Car;
+
 public interface CarFactory {
-	public abstract void createCar();
+	public abstract Car createCar();
 }

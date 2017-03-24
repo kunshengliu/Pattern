@@ -1,4 +1,9 @@
 package com.bjsxt.factory.simple;
+
+import com.bjsxt.factory.Audi;
+import com.bjsxt.factory.Bmw;
+import com.bjsxt.factory.Car;
+
 /**
  * 简单工厂类
  * @author liukunsheng
