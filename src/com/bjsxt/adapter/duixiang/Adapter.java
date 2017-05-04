@@ -1,4 +1,4 @@
-package com.bjsxt.adapter;
+package com.bjsxt.adapter.duixiang;
 /**
  * ÊÊÅäÆ÷±¾Éí
  * @author liukunsheng

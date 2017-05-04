@@ -15,6 +15,10 @@ public class Client {
 		SingletonDemo2  s4 = c.newInstance();
 		System.out.println(s3);
 		System.out.println(s4);
+		
+		SingletonDemo3 s = SingletonDemo3.INSTANCE;
+		s.singletonOperation();
+		
 
 	}
 }

@@ -1,6 +1,6 @@
-package com.bjsxt.adapter;
+package com.bjsxt.adapter.duixiang;
 /**
- * 被适配的类
+ * 被适配的类(就是)
  * @author liukunsheng
  *
  */

@@ -1,6 +1,6 @@
 package com.bjsxt.decorator;
 /**
- * 
+ * 装饰器具模式
  * @author liukunsheng
  *
  */

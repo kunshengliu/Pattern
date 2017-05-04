@@ -1,4 +1,4 @@
-package com.bjsxt.adapter;
+package com.bjsxt.adapter.duixiang;
 
 public interface Target {
 	void handleReq();
